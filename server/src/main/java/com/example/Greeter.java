@@ -1,7 +1,7 @@
 package com.example;
 
 /**
-*Classe Greeter
+*Classe Greeter.
 */
 public class Greeter {
 
